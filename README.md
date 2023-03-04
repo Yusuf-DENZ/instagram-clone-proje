@@ -1,2 +1,2 @@
-# instagram-clone-proje
-İn this proeject ı willl try to clone instagram web page
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
